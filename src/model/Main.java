@@ -37,5 +37,14 @@ public class Main {
         System.out.println(_1a);
         System.out.println($aq);
 
+        System.out.println(j);
+        System.out.println(asrn24678md);
+        System.out.println(asrn2$4678_md);
+
+        System.out.println(quantidadeProduto);
+        System.out.println(NUMERO_TENTATIVAS);
+        System.out.println(QUANTIDADE_OPCOES);
+
+
     }
 }
